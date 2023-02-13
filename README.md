@@ -1,7 +1,7 @@
-- 👋 Hello, I’m @mkzineb
-- 👀 I’m interested in fishkeeping and underwater landscape
-- 🌱 I’m currently studying for a master's degree in Embedded Systems
-- 📫 you can reach me on Discord : ZK#3912
+- Hello, I’m @mkzineb ☻ 
+- I’m interested in fishkeeping and underwater landscape 
+- I’m currently studying for a master's degree in Embedded Systems
+
 
 <!---
 mkzineb/mkzineb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
